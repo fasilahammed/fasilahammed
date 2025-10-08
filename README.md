@@ -7,7 +7,7 @@
 🚀 A passionate **Full-Stack Developer** focused on building dynamic, responsive, and high-performance web applications.  
 
 💡 I love solving real-world problems with clean, efficient code and turning ideas into meaningful digital experiences.  
-🌱 Currently deepening my knowledge in **ASP.NET Core** and **SQL Server** alongside **React** and **Redux**.
+🌱 Currently deepening my knowledge in **ASP.NET Core**, **SQL Server**, and **Swagger** alongside **React** and **Redux**.
 
 </div>
 
@@ -16,7 +16,7 @@
 ## 🧰 Tech Stack & Tools  
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,cs,dotnet,sqlserver,git,github,vscode,figma,npm&theme=light&perline=7" alt="My Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,cs,dotnet,sqlserver,git,github,vscode,figma,npm,swagger&theme=light&perline=8" alt="My Skills" />
 </div>
 
 ---
@@ -24,9 +24,25 @@
 ## 🧑‍💻 About Me  
 
 🎯 I’m a **creative and dedicated developer** who enjoys building full-featured, user-focused web applications.  
-💼 I recently worked on projects integrating **frontend (React)** and **backend (ASP.NET Core, SQL Server)** technologies.  
-🌐 My eCommerce project **SnapMob** reflects my ability to design complete systems — from UI to API.  
+💼 During my **internship at Bridgeon Solutions**, I gained strong practical experience in real-world project development using **React**, **Redux**, **Tailwind CSS**, **ASP.NET Core**, **SQL Server**, and **Swagger**.  
+🌐 My eCommerce project **SnapMob** reflects my ability to design complete systems — from UI to API, handling user and admin flows efficiently.  
 🧠 Always curious, always learning, always improving.  
+
+---
+
+## 🔥 Featured Project – SnapMob  
+
+**SnapMob – E-Commerce Web Application**  
+
+A full-featured eCommerce website for mobile devices with **user and admin roles**:  
+- **User Side:** Product listing, cart, wishlist, order placement, and profile management  
+- **Admin Side:** Manage products, users, and orders with dashboard analytics  
+- **Frontend:** React, Redux, Tailwind CSS  
+- **Backend:** ASP.NET Core Web APIs  
+- **Database:** SQL Server  
+- **API Documentation:** Swagger integrated for easy testing and validation  
+
+> ✨ SnapMob helped me strengthen my **full-stack development skills**, especially integrating frontend components with backend APIs and managing relational data efficiently.
 
 ---
 
@@ -101,9 +117,9 @@
   <br><sub>Web APIs, MVC, Entity Framework</sub>
 </td>
 <td align="center" width="33%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" />
-  <br><strong>SQL Server</strong>
-  <br><sub>Relational Data Design & Queries</sub>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="50" />
+  <br><strong>Swagger</strong>
+  <br><sub>API Documentation & Testing</sub>
 </td>
 </tr>
 </table>
