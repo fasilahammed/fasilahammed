@@ -4,10 +4,10 @@
 <div align="center">
 
 # 👋 Hi, I'm **Fasil Ahammed KM**
-🚀 A passionate **Full-Stack Developer** focused on building dynamic, responsive, and high-performance web applications.  
+🚀 A passionate **Full-Stack Developer** building modern, responsive, and high-performance web applications.  
 
 💡 I love solving real-world problems with clean, efficient code and turning ideas into meaningful digital experiences.  
-🌱 Currently deepening my knowledge in **ASP.NET Core**, **SQL Server**, and **Swagger** alongside **React** and **Redux**.
+🌱 Currently deepening my knowledge in **ASP.NET Core**, **SQL Server**, **React**, and **Redux**.
 
 </div>
 
@@ -15,8 +15,11 @@
 
 ## 🧰 Tech Stack & Tools  
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,cs,dotnet,sqlserver,git,github,vscode,figma,npm,swagger&theme=light&perline=8" alt="My Skills" />
+<div align="center" style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); padding: 20px; border-radius: 15px;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,cs,dotnet,sqlserver,git,github,vscode,figma,npm,swagger&theme=light&perline=7" alt="My Skills" />
+  <p style="color:#ffffff; margin-top:10px; font-style:italic;">
+    Frontend: React, Redux, Tailwind CSS | Backend: ASP.NET Core | Database: SQL Server | API Docs: Swagger
+  </p>
 </div>
 
 ---
@@ -117,9 +120,9 @@ A full-featured eCommerce website for mobile devices with **user and admin roles
   <br><sub>Web APIs, MVC, Entity Framework</sub>
 </td>
 <td align="center" width="33%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="50" />
-  <br><strong>Swagger</strong>
-  <br><sub>API Documentation & Testing</sub>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" />
+  <br><strong>SQL Server</strong>
+  <br><sub>Relational Data Design & Queries</sub>
 </td>
 </tr>
 </table>
