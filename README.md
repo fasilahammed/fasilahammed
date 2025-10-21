@@ -1,4 +1,4 @@
-<!-- Header -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Fasil%20Ahammed%20KM&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <div align="center">
